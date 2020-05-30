@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email    = ['camertron@gmail.com']
   s.homepage = 'http://github.com/camertron'
 
-  s.description = s.summary = 'Identifies common placeholder patterns in text, i.e. Android, iOS, Ruby/Rails, and Liquid.'
+  s.description = s.summary = 'Identifies common platform-specific placeholder patterns in text.'
 
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = true
